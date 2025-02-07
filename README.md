@@ -1,6 +1,6 @@
 # Dict2AnkiFork
 
-Fork自原项目[Dict2AnkiFork](https://github.com/megachweng/Dict2Anki), 由于已经不维护了无人修bug
+Fork自原项目[Dict2Anki](https://github.com/megachweng/Dict2Anki), 由于已经不维护了无人修bug
 
 
 [原README.md](./OLD_README.md)文档
